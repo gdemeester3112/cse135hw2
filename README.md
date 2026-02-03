@@ -2,10 +2,15 @@
 
 ### Link to wesbite: https://gdemeester.site/
 
+## Team Member:
+
+Ghislain Demeester
+
+
 ## Login note:
 - Username : ta 
 - Password : password
-
+- Server IP : 
 
 ## Echo
 
