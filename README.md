@@ -2,6 +2,10 @@
 
 ### Link to wesbite: https://gdemeester.site/
 
+## Login note:
+Username : ta
+Password : password
+
 
 ## Analytics decision
 
