@@ -32,6 +32,8 @@ I added a Echo Form which shows all the html responses for PHP, Python and Go at
 
 ## Analytics decision
 
+I picked Google Analytics because it seems like something a lot of websites use, so knowing how to set it up would be useful. If I ever need to quickly add analytics to a website in the future, understanding how Google Analytics works will make that a lot easier.
+
 
 
 I decided to go for Google Analytics because it was the most popular one and the one I was the most interested about.
