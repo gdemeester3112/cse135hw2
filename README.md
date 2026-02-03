@@ -10,7 +10,7 @@ Ghislain Demeester
 ## Login note:
 - Username : ta 
 - Password : password
-- Server IP : 
+- Server IP : 146.190.47.215 10.48.0.5 10.124.0.2 
 
 ## Echo
 
